@@ -24,6 +24,11 @@ Lesson details screen task:
 - Show a “Next lesson” button to play next lesson from the list
 - Show video in full screen when app rotates to landscape
 
+Unit test task:
+
+- Write unit and UI automated tests with XCTest.
+- Tests have to be meaningful and comprehensive and cover all important functionality of the app.
+
 <table>
   <tr>
     <td>Lessons list screen</td>
