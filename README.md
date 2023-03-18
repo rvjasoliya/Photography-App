@@ -1,4 +1,4 @@
-Swift UI Demo
+<h1>Swift UI App</h1>
 
 • Tools used:
 - Xcode
