@@ -48,6 +48,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4F9B386D2B62DBC0007D25C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		881C9A1D29B7399100E2EF3B /* Lessons.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lessons.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		881C9A2029B7399100E2EF3B /* LessonsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonsApp.swift; sourceTree = "<group>"; };
 		881C9A2229B7399100E2EF3B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -122,6 +123,7 @@
 		881C9A1F29B7399100E2EF3B /* Lessons */ = {
 			isa = PBXGroup;
 			children = (
+				4F9B386D2B62DBC0007D25C2 /* Info.plist */,
 				881C9A2029B7399100E2EF3B /* LessonsApp.swift */,
 				881C9A2229B7399100E2EF3B /* ContentView.swift */,
 				881C9A4D29B739DF00E2EF3B /* Lessons */,
@@ -525,6 +527,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Lessons/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Lessons/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -554,6 +557,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Lessons/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Lessons/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;

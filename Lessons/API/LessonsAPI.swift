@@ -11,7 +11,7 @@ import Combine
 struct LessonsAPI {
     
     static let shared = LessonsAPI()
-    private let apiUrl = "https://zokham.com/lessons.php"
+    private let apiUrl = "https://iphonephotographyschool.com/test-api/lessons"
     private let jsonDecoder: JSONDecoder = {
         let decoder = JSONDecoder()
         decoder.dateDecodingStrategy = .iso8601
